@@ -1,1 +1,1 @@
-This is responsive one page static website
+This is responsive one page static website developed by Mamun
