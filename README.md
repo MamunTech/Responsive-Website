@@ -1,0 +1,1 @@
+This is responsive one page static website
